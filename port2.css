@@ -25,4 +25,6 @@ button:hover{
 }
 li{
     font-size: large;
+    padding-left:5%;
+    display: inline-flex;
 }
