@@ -1,0 +1,28 @@
+.save-contact{
+    color:white;
+    height: 56px;
+    width: 227px;
+    top: 295px;
+    left: 20px;
+    border-radius: 100px;
+    background-color: #0066cc;
+    font-weight: 900;
+    
+}
+.share {
+    color:white;
+    height: 56px;
+    width: 198px;
+    top: 295px;
+    left: 20px;
+    border-radius:100px;
+    background-color: #0066cc;
+    font-weight: 900;
+}
+button:hover{
+    background-color:lime;
+    color:black;
+}
+li{
+    font-size: large;
+}
