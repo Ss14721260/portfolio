@@ -3,5 +3,12 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/live-server:1": {},
 		"ghcr.io/devcontainers-contrib/features/surge-cli:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ritwickdey.LiveServer"
+			]
+		}
 	}
 }
